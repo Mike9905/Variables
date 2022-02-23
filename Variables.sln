@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enteros", "Enteros\Enteros.csproj", "{F860F67E-E024-4B54-9C28-330E4DF5C235}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F860F67E-E024-4B54-9C28-330E4DF5C235}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F860F67E-E024-4B54-9C28-330E4DF5C235}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F860F67E-E024-4B54-9C28-330E4DF5C235}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F860F67E-E024-4B54-9C28-330E4DF5C235}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {530337A2-E852-4CA5-B032-742DAAD7F307}
+	EndGlobalSection
+EndGlobal
